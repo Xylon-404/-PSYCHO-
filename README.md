@@ -35,14 +35,14 @@ cd PSYCHO
 python 𝖨𐌽᥉ť𝖆ġ𝗿𝖆𝕞.py
 ```
 
-####USERNAME
+#### USERNAME
 ```
 xxx
 ```
 
 
 
-####PASSWORD
+#### PASSWORD
 ```
 xnxx
 ```
